@@ -1,0 +1,13 @@
+Termux navigation
+mkdir .termux
+cd .termux
+nano termux.properties
+
+extra-keys = [ \
+ ['ESC','-','/','HOME','UP','END','PGUP'], \
+ ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN'] \
+]
+
+press "ctrl + o " key to save file
+Press "ctrl + x" to exit nano text editor
+Type "exit"
