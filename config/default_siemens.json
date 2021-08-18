@@ -1,0 +1,44 @@
+{
+    "license":"$2b$10$QPWzzyEm5tSMBlRPOyfe0.hLlcslMWRmynEYMPeb6Wlz5R27bH8oG",
+    "Port":8000,
+
+    "ProjectOMRON":false,
+    "ProjectOnsemi":false,
+    "PLC_Omron":false,
+
+    "PLC_Schneider":false,
+
+    "Cobot":false,
+
+    "MobileRobot":false,
+
+    "PLC_Mitsubishi":false,
+
+    "PLC_Siemens":true,
+    "PLC_Siemens_IP":"192.168.0.1",
+    "PLC_Siemens_Interval_Communication":500,
+    "PLC_Siemens_Size_D0":420,
+    "PLC_Siemens_ComPC":"DB10,INT0.50",
+    "PLC_Siemens_Interval_WriteDataPC":500,
+    "PLC_Siemens_WordStartElement":0,
+    "PLC_Siemens_LengthOfWordElement":100,
+    "PLC_Siemens_WordStartBitDisplay":100,
+    "PLC_Siemens_LengthOfWordBitDisplay":10,
+    "PLC_Siemens_WordStartBitAdjust":110,
+    "PLC_Siemens_LengthOfWordBitAdjust":10,
+    "PLC_Siemens_WordStartWordDisplay":120,
+    "PLC_Siemens_LengthOfWordWordDisplay":100,
+    "PLC_Siemens_WordStartWordAdjust":220,
+    "PLC_Siemens_LengthOfWordWordAdjust":100,
+    "PLC_Siemens_WordStartDWordDisplay":320,
+    "PLC_Siemens_LengthOfWordDWordDisplay":25,
+    "PLC_Siemens_WordStartDWordAdjust":370,
+    "PLC_Siemens_LengthOfWordDWordAdjust":25,
+   
+
+    "PLC_ScaleMeasure":false,
+
+    "Nanoenvi":false,
+
+    "Sanofi":false
+}

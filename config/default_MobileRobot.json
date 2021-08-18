@@ -1,0 +1,28 @@
+{
+    "license":"$2b$10$QPWzzyEm5tSMBlRPOyfe0.hLlcslMWRmynEYMPeb6Wlz5R27bH8oG",
+    "Port":8000,
+
+    "ProjectOMRON":true,
+
+    "ProjectOnsemi":false,
+
+    "PLC_Omron":false,
+
+    "PLC_Schneider":false,
+
+    "Cobot":false,
+   
+    "MobileRobot":true,
+    "MobileRobot_Port":7171,
+    "MobileRobot_IP":"192.168.1.100",
+
+    "PLC_Mitsubishi":false,
+
+    "PLC_Siemens":false,
+    
+    "PLC_ScaleMeasure":false,
+
+    "Nanoenvi":false,
+
+    "Sanofi":false
+}

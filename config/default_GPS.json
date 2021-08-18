@@ -1,0 +1,26 @@
+{
+    "license":"$2b$10$QPWzzyEm5tSMBlRPOyfe0.hLlcslMWRmynEYMPeb6Wlz5R27bH8oG",
+    "Port":8000,
+
+    "ProjectOMRON":false,
+    "ProjectOnsemi":false,
+    "PLC_Omron":false,
+
+    "PLC_Schneider":false,
+
+    "Cobot":false,
+
+    "MobileRobot":false,
+
+    "PLC_Mitsubishi":false,
+
+    "PLC_Siemens":false,
+
+    "PLC_ScaleMeasure":false,
+
+    "Nanoenvi":false,
+
+    "GPS":true,
+
+    "Sanofi":false
+}

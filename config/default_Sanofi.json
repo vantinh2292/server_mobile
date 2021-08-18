@@ -1,0 +1,69 @@
+{
+    "license":"$2b$10$QPWzzyEm5tSMBlRPOyfe0.hLlcslMWRmynEYMPeb6Wlz5R27bH8oG",
+    "Port":8000,
+
+    "LocalDB":true,
+    "MongoDB":false,
+
+    "ProjectOMRON":false,
+
+    "ProjectOnsemi":false,
+
+    "PLC_Omron":true,
+    "PLC_Omron_WriteUnSafe":false,
+    "PLC_Omron_SocketServer":false,
+    "PLC_Omron_SocketServer_IP":"192.168.1.136",
+    "PLC_Omron_SocketServer_PORT":12345,
+
+    "PLC_Omron_IP":"192.168.251.101",
+    "PLC_Omron_Size_D0":1020,
+    "PLC_Omron_IntervalScan":200,
+    "PLC_Omron_Debug":false,
+    "PLC_Omron_ComPC":"D1000",
+    "PLC_Omron_WordStartCommunicationPLC":1000,
+    "PLC_Omron_LengthOfWordCommunicationPLC":10,
+
+    "PLC_Omron_WordStartElement":0,
+    "PLC_Omron_LengthOfWordElement":300,
+    "PLC_Omron_WordStartBitDisplay":300,
+    "PLC_Omron_LengthOfWordBitDisplay":10,
+    "PLC_Omron_WordStartBitAdjust":310,
+    "PLC_Omron_LengthOfWordBitAdjust":10,
+    "PLC_Omron_WordStartWordDisplay":320,
+    "PLC_Omron_LengthOfWordWordDisplay":200,
+    "PLC_Omron_WordStartWordAdjust":520,
+    "PLC_Omron_LengthOfWordWordAdjust":200,
+    "PLC_Omron_WordStartDWordDisplay":720,
+    "PLC_Omron_LengthOfWordDWordDisplay":25,
+    "PLC_Omron_WordStartDWordAdjust":770,
+    "PLC_Omron_LengthOfWordDWordAdjust":25,
+    "PLC_Omron_WordStartRotate":820,
+    "PLC_Omron_LengthOfWordRotate":25,
+
+    "PLC_Omron_IntervalWriteData":500,
+
+    "PLC_Omron_Enable_String":true,
+    "PLC_Omron_WordStartString1":2000,
+    "PLC_Omron_LengthOfWordString1":1000,
+    "PLC_Omron_WordStartString2":3000,
+    "PLC_Omron_LengthOfWordString2":600,
+    "PLC_Omron_NumberWordInString":20,
+    "PLC_Omron_WordStartCheckPassword":3000,
+    "PLC_Omron_LengthOfWordCheckPassword":600,
+
+    "PLC_Schneider":false,
+
+    "Cobot":false,
+   
+    "MobileRobot":false,
+
+    "PLC_Mitsubishi":false,
+
+    "PLC_Siemens":false,
+    
+    "PLC_ScaleMeasure":false,
+
+    "Nanoenvi":false,
+
+    "Sanofi":true
+}

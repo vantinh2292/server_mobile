@@ -1,0 +1,46 @@
+{
+    "license":"$2b$10$QPWzzyEm5tSMBlRPOyfe0.hLlcslMWRmynEYMPeb6Wlz5R27bH8oG",
+    "Port":8000,
+
+    "ProjectOMRON":false,
+    "ProjectOnsemi":false,
+    "PLC_Omron":false,
+
+    "PLC_Schneider":false,
+    "PLC_Schneider_IP":"127.0.0.1",
+
+    "Cobot":false,
+
+    "MobileRobot":false,
+
+    "PLC_Mitsubishi":true,
+    "PLC_Mitsubishi_WriteUnSafe":false,
+    "PLC_Mitsubishi_IP":"192.168.3.39",
+    "PLC_Mitsubishi_Interval_Communication":500,
+    "PLC_Mitsubishi_Size_D0":820,
+    "PLC_Mitsubishi_ComPC":"D1000",
+    "PLC_Mitsubishi_WordStartElement":0,
+    "PLC_Mitsubishi_LengthOfWordElement":300,
+    "PLC_Mitsubishi_WordStartBitDisplay":300,
+    "PLC_Mitsubishi_LengthOfWordBitDisplay":10,
+    "PLC_Mitsubishi_WordStartBitAdjust":310,
+    "PLC_Mitsubishi_LengthOfWordBitAdjust":10,
+    "PLC_Mitsubishi_WordStartWordDisplay":320,
+    "PLC_Mitsubishi_LengthOfWordWordDisplay":200,
+    "PLC_Mitsubishi_WordStartWordAdjust":520,
+    "PLC_Mitsubishi_LengthOfWordWordAdjust":200,
+    "PLC_Mitsubishi_WordStartDWordDisplay":720,
+    "PLC_Mitsubishi_LengthOfWordDWordDisplay":25,
+    "PLC_Mitsubishi_WordStartDWordAdjust":770,
+    "PLC_Mitsubishi_LengthOfWordDWordAdjust":25,
+
+    "PLC_Siemens":false,
+
+    "PLC_ScaleMeasure":false,
+
+    "Nanoenvi":false,
+
+    "Sanofi":false
+
+
+}
