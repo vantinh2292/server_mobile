@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "GIAO DIỆN",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Giao Diện Điều Khiển",
+            "url": "/scada",
+            "icon": "icon-pencil"
+        }          
+    ]
+}

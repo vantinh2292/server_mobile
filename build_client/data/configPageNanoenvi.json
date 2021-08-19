@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "SCADA",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "AirCheck_Full",
+            "url": "/project/air-full",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "AirCheck_History",
+            "url": "/project/air-history",
+            "icon": "icon-pencil"
+        }
+    ]
+}

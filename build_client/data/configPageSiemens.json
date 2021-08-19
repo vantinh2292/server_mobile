@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "Scada",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Siemens",
+            "url": "/scada/scada",
+            "icon": "icon-drop"
+        },
+        {
+            "name": "Formular",
+            "url": "/scada/formularproject",
+            "icon": "icon-drop"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "Scada",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "OnsemiHome",
+            "url": "/scada/onsemihome",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "User",
+            "url": "/scada/User",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Product",
+            "url": "/scada/Product",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Goal",
+            "url": "/scada/Goal",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "SampleRoute",
+            "url": "/scada/SampleRoute",
+            "icon": "icon-pencil"
+        }
+    ]
+}

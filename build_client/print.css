@@ -1,0 +1,18 @@
+@page {
+  size: landscape;
+}
+/* For portrait, we want the tool bar on top */
+
+@media screen and (orientation: portrait) {
+  #toolbar {
+    width: 100%;
+  }
+}
+
+/* For landscape, we want the tool bar stick on the left */
+
+@media screen and (orientation: landscape) {
+  #toolbar {
+    position: fixed;
+  }
+}

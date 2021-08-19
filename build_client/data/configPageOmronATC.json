@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "Scada",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "OMRON",
+            "url": "/scada/omron",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "OMRON_VIPER",
+            "url": "/scada/omronViper",
+            "icon": "icon-pencil"
+        }
+
+    ]
+}

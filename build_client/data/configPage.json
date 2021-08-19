@@ -1,0 +1,96 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "GIAO DIỆN",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Giao Diện Điều Khiển",
+            "url": "/scada",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 1",
+            "url": "/scada/stamping1",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 2",
+            "url": "/scada/stamping2",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 3",
+            "url": "/scada/stamping3",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 4",
+            "url": "/scada/stamping4",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 5",
+            "url": "/scada/stamping5",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 6",
+            "url": "/scada/stamping6",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Máy 7",
+            "url": "/scada/stamping7",
+            "icon": "icon-pencil"
+        },
+        {
+            "title": true,
+            "name": "BÁO CÁO",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Báo Cáo Chi Tiết",
+            "url": "/scada/ReportProjectStampingMachineChiTiet",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Báo Cáo Sản Lượng",
+            "url": "/scada/ReportProjectStampingMachineProductivity",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Báo Cáo Trạng Thái",
+            "url": "/scada/ReportProjectStampingMachineTrangThai",
+            "icon": "icon-pencil"
+        },
+        {
+            "title": true,
+            "name": "EXCEL",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Nhân Viên",
+            "url": "/excel/NhanVien",
+            "icon": "icon-pencil"
+        }  ,
+        {
+            "name": "Sản Phẩm",
+            "url": "/excel/SanPham",
+            "icon": "icon-pencil"
+        }                 
+    ]
+}

@@ -1,0 +1,139 @@
+
+.tramtronbetong{
+  height: 960px; 
+  width: 1920px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.onsemi{
+  height: 950px; 
+  width: 1756px;
+  background-repeat: no-repeat;
+}
+.Scada{
+  height: 950px; 
+  width: 1822px;
+  background-repeat: no-repeat;
+}
+.Scada2{
+  height: 748px; 
+  width: 1036px;
+  background-repeat: no-repeat;
+}
+.PnlSynoptic{
+  height: 950px; 
+  width: 1822px;
+  background-repeat: no-repeat;
+}
+.PLC_ScaleMeasure{
+  height: 950px; 
+  width: 1822px;
+  background-repeat: no-repeat;
+}
+.StampingMachine{
+  height: 1040px; 
+  width: 2160px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping1{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping2{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping3{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping4{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping5{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping6{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Stamping7{
+  height: 700px; 
+  width: 1230px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.mixingScada{
+  height: 1200px; 
+  width: 1666px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.Sanofi{
+  height: 500px; 
+  width: 700px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+
+
+
+
+
+
+#gridContainer {
+  height: 90vh;
+}
+#exportButton {
+  margin-bottom: 10px;
+}
+.omron{
+  height: 950px; 
+  width: 2425px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+.PrintProjectScale{
+  height: 950px; 
+  width: 1822px;
+  background-repeat: no-repeat;
+  /* overflow: "auto" */
+}
+
+.PrintProjectScale_page{
+  padding :2px;
+  padding-top: 5px;
+}
+.PrintProjectScale_All{
+  font-size :17px;
+  height: 25px;
+}
+.PrintProjectScale_Title{
+  font-size :107px;
+  width: 110px;
+  font-style: 'italic'
+}
+.PrintProjectScale_img{
+  width :75px;
+  padding-left: 5px;
+}
+.PrintProjectScale_TitleTop{
+  padding-left: 50;
+  margin-top: 'auto';
+  margin-bottom: 'auto';
+}

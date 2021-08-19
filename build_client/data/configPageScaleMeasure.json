@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "GIAO DIỆN",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Giao Diện Điều Khiển",
+            "url": "/scada",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Tồn Kho - Cài Đặt Hệ Số",
+            "url": "/scada/scada2",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Quản Lý Mã Hàng",
+            "url": "/scada/scaleproject",
+            "icon": "icon-pencil"
+        },
+        {
+            "title": true,
+            "name": "BÁO CÁO",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Báo Cáo Vận Hành Cân",
+            "url": "/scada/ReportProjectScale",
+            "icon": "icon-pencil"
+        },
+	{
+            "name": "Báo Cáo Tồn Kho",
+            "url": "/scada/ReportProjectScaleTonKho",
+            "icon": "icon-pencil"
+        },
+        {
+            "title": true,
+            "name": "Đăng Nhập",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Quản Lý Đăng Nhập",
+            "url": "/UserManager",
+            "icon": "icon-pencil"
+        },
+        {
+            "title": true,
+            "name": "EXCEL",
+            "wrapper": {
+                "element": "",
+                "attributes": {}
+            },
+            "class": ""
+        },
+        {
+            "name": "Khách Hàng",
+            "url": "/excel/KhachHang",
+            "icon": "icon-pencil"
+        }  ,
+        {
+            "name": "Số Hợp Đồng",
+            "url": "/excel/SoHopDong",
+            "icon": "icon-pencil"
+        }    ,
+        {
+            "name": "Lot No",
+            "url": "/excel/LotNo",
+            "icon": "icon-pencil"
+        }    ,
+        {
+            "name": "Tên Hàng - Kích Thước",
+            "url": "/excel/TenHang_KT",
+            "icon": "icon-pencil"
+        },
+        {
+            "name": "Bộ",
+            "url": "/excel/bo",
+            "icon": "icon-pencil"
+        }               
+    ]
+}
