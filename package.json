@@ -16,15 +16,28 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "firebase": "^6.0.2",
     "mime": "^2.4.6",
     "morgan": "^1.9.1",
     "mosca": "^2.8.3",
-    "socket.io": "^4.1.3"
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^4.2.0"
   },
   "readme": "node-omron-fins\n===============\n\nAn implementation of the Omron FINS library for node js\n",
   "readmeFilename": "README.md",
   "_id": "omron-fins@0.0.1",
   "_shasum": "7eed15526534a65f5e799dfa4e7c0e0a2dd6acb7",
   "_from": "/home/patrick/Documents/code/github/node-omron-fins",
-  "devDependencies": {}
+  "devDependencies": {
+    "stampit": "^4.3.1",
+    "stampit-log": "^0.3.0",
+    "stampit-state-machine": "^0.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "bin": "./index.js",
+  "pkg": {
+    "assets": "./"
+  }
 }
