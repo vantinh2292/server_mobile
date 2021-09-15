@@ -19,8 +19,7 @@
     "mime": "^2.4.6",
     "morgan": "^1.9.1",
     "mosca": "^2.8.3",
-    "socket.io": "^2.2.0",
-    "socket.io-client": "^4.2.0"
+    "socket.io": "^2.2.0"
   },
   "readme": "node-omron-fins\n===============\n\nAn implementation of the Omron FINS library for node js\n",
   "readmeFilename": "README.md",
